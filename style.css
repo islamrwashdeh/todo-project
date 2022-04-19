@@ -93,28 +93,39 @@ footer{
  }
 
 /*loginbage*/
-.log{
-  background-color: aliceblue;
-  width: 30%;
-  margin: 10px;
-  margin-left: 200px;
-  margin-top: 30px;
+
+.aboutme{
+ margin-top: 10px;
+  display: flex;
+  justify-content: center;
+ 
+
+}
+.avatar {
+  height:120px;
+  width: 120px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 30px;
+   }
+
+.login{
+  background-color:#D3D3D3;
+  width: 500px;
+  margin-left: 500px;
+  margin-top: 50px;
+  padding: 30px; ;
+  }
+ .table{
+   padding: 10px;
+ }
+
+
+
+
+
   
-}
 
-
-.fo{
-  padding: 20px; ;
-  margin: left 20px; 
-}
-
-.me{
-  width:50%;
-  margin: 10px;
-  margin-left: 20px;
-  margin-top: 30px;
-  
-}
 
 .tb{
   margin-left: 400px;
